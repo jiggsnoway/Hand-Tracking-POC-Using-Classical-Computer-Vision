@@ -206,7 +206,7 @@ This project is for educational and demonstration purposes.
 **[Jigyashman Hazarika]**
 - Email: jiggsnoway18@gmail.com
 - GitHub: (https://github.com/jiggsnoway)
-- LinkedIn: [Jigyashman Hazarika](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Jigyashman Hazarika](https://www.linkedin.com/in/jigyashman-hazarika-169546317))
 
 ## 🙏 Acknowledgments
 
